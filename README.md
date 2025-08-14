@@ -27,7 +27,7 @@
     .cover {
       width: 100%;
       height: 550px;
-      background: url('https://i.ibb.co/RpQpMGBc/IMG-8755.jpg') center/cover no-repeat;
+      background: url('<a href="https://ibb.co/5Xvpphb1"><img src="https://i.ibb.co/7xVMMtsS/IMG-6969.jpg" alt="IMG-6969" border="0"></a><a href="https://ibb.co/5Xvpphb1"><img src="https://i.ibb.co/7xVMMtsS/IMG-6969.jpg" alt="IMG-6969" border="0"></a>') center/cover no-repeat;
       position: absolute;
       left: 0;
       top: 0;

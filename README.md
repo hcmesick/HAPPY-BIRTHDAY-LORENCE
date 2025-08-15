@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -27,7 +28,8 @@
     .cover {
       width: 100%;
       height: 550px;
-      background: url('<a href="https://ibb.co/5Xvpphb1"><img src="https://i.ibb.co/7xVMMtsS/IMG-6969.jpg" alt="IMG-6969" border="0"></a><a href="https://ibb.co/5Xvpphb1"><img src="https://i.ibb.co/7xVMMtsS/IMG-6969.jpg" alt="IMG-6969" border="0"></a>') center/cover no-repeat;
+      background: url('https://i.ibb.co/7xVMMtsS/IMG-6969.jpg') center/cover no-repeat;
+ center/cover no-repeat;
       position: absolute;
       left: 0;
       top: 0;
@@ -104,23 +106,22 @@
         <div class="heart">♥</div>
         <p>
 
-HAPPY BIRTHDAY TOLLLL, MISS YOU SMM!
-Hwehwehw lowk andami kong gustong sabihin hahah but first, I just wanna say how much I appreciate you 
+HAPPY BIRTHDAY TOLLLL, MISS YOU SMM! 🫶🏻🫂
+Hwehwehwe lowk andami kong gustong sabihin hahah but first, I just wanna say how much I appreciate you 
 so saur much. You’re one of the most AMAZING, MABAIT, and UNDERSTANDING people I know hihihi. You have 
-no idea how grateful I am that I met and got to know a person like you.
+no idea how grateful I am that I met and got to know a person like youu.
 
-We’ve only known each other for a few years, pero highkey it feels like ang tagal na nating magkaibigan, 
-kahit minsan bitin pa nga ang pagsasama natin hwahahaha. Miss ko narin mga , tawanan natin sa gilid kahit
-walang sense minsan hahaha, chikahan and pag palaging magkatabi tayo. Those moments would made my whole day 
+We’ve only known each other for a few years, pero highkey it feels like ang tagal na nating magkaibigan 😭,
+kahit minsan bitin pa nga pagsasama natin hwahahaha. Miss ko narin mga , tawanan natin sa gilid kahit maski walang sense minsan hahaha, chikahan and pag palaging magkatabi  at magkasama tayo😔. Those moments would made my whole day 
 during Grade 8 frfr. And btw ang dami ng nakakamiss sayo sa USL HAHAHA
 
 I’m also super duper thankful na you were always there for me when I was at my lowest, lalo na noong Grade 8. 
-You listened to me kahit you were going through your own struggles too huhu and that means so much to me. You 
+You listened to me kahit you were going through your own struggles too huhu and that means so much to me ‼️. You 
 hab no idea how much your presence helped me get through those times hihi. 
 
 And I want you to know that I’m always here for you, no matter what hehe. I hope your day is filled with nothing 
 but love, happiness, and blessings because you truly deserve it. Sana maglast pa tayo for many more years to come, 
-and I excited ako for next gala natin hihi.
+and excited n'ako for next gala natin hwehwehwehwehwe.
 
 
         </p>
